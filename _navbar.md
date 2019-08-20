@@ -1,2 +1,2 @@
 - [常见问题](/problem)
-- [司机小程序](/driverApp)
+- [司机小程序](/smallApp)

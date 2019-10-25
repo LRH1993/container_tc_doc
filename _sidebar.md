@@ -10,7 +10,6 @@
 
 - 调度管理
     - [待派订单](/dispatchOrder)
-    - [车辆定位](/location)
 
 - 数据统计
     - [货代业务统计](/freightData) 
